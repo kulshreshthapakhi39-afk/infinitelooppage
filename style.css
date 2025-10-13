@@ -116,7 +116,7 @@ p{
     transition: transform 0.3s;
 }
 
-.gallery-container img:hover{
+.gallery-container img:hover{}
     transform: scale(1.05);
 }
 
